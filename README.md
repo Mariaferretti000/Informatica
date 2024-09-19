@@ -44,7 +44,17 @@ Feira de Soluções	dd/mm/aaaa	a fazer	Ver Relatório
 **EQUIPE**
 ![image](https://github.com/user-attachments/assets/f1607859-4f22-4a5c-9906-19aca2ac2a82)
 
-**OBJETIVO DO PROJETO**
+
+
+**Sprint 1.**
+ Analise das atividades 1 e 2;
+ Swot da empresa;
+ Canvas da empresa;
+ Pesquisa inicial preenchida;
+ https://www.canva.com/design/DAGRDy7ckOs/36ZvxfCIvzGKqvYw4DDAfg/edit?utm_content=DAGRDy7ckOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+ **OBJETIVO DO PROJETO**
 
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
@@ -54,11 +64,4 @@ Versionar e controlar as alterações;
 Facilitar o compartilhamento e feedback;
 Desenvolver habilidades técnicas.
 
-
-**Sprint 1.**
- Analise das atividades 1 e 2;
- Swot da empresa;
- Canvas da empresa;
- Pesquisa inicial preenchida;
- https://www.canva.com/design/DAGRDy7ckOs/36ZvxfCIvzGKqvYw4DDAfg/edit?utm_content=DAGRDy7ckOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
