@@ -1,6 +1,6 @@
 # Aprendizagem Fatec Sao jose dos Campos - INFORMATICA 
 
-*Objetivo*
+*OBJETIVO*
 
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
 
@@ -16,3 +16,4 @@ Editor de Planilhas.
 Banco de Dados. 
 Criação de Home Pages. 
 Outras Tecnologia e Ferramentas de Interesse.
+
