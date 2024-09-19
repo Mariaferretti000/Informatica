@@ -60,4 +60,5 @@ Desenvolver habilidades técnicas.
  Swot da empresa;
  Canvas da empresa;
  Pesquisa inicial preenchida;
+ https://www.canva.com/design/DAGRDy7ckOs/36ZvxfCIvzGKqvYw4DDAfg/edit?utm_content=DAGRDy7ckOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  
