@@ -30,6 +30,9 @@ Banco de Dados.
 Criação de Home Pages. 
 Outras Tecnologia e Ferramentas de Interesse.
 
+ **PESSOAL**
+![image](https://github.com/user-attachments/assets/1af08a4a-8155-463a-93cf-edf119228ed7)
+
 **Projeto (API)**
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
@@ -40,9 +43,6 @@ Sprint 01	24/10/2024	concluido	Ver Relatório
 03	dd/mm/aaaa	a fazer	Ver Relatório
 04	dd/mm/aaaa	a fazer	Ver Relatório
 Feira de Soluções	dd/mm/aaaa	a fazer	Ver Relatório
-
-**EQUIPE**
-![image](https://github.com/user-attachments/assets/f1607859-4f22-4a5c-9906-19aca2ac2a82)
 
  **OBJETIVO DO PROJETO**
 
@@ -55,13 +55,6 @@ Facilitar o compartilhamento e feedback;
 Desenvolver habilidades técnicas.
 
 
-
-**Sprint 1.**
- Analise das atividades 1 e 2;
- Swot da empresa;
- Canvas da empresa;
- Pesquisa inicial preenchida;
- https://www.canva.com/design/DAGRDy7ckOs/36ZvxfCIvzGKqvYw4DDAfg/edit?utm_content=DAGRDy7ckOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
