@@ -54,6 +54,13 @@ Versionar e controlar as alterações;
 Facilitar o compartilhamento e feedback;
 Desenvolver habilidades técnicas.
 
+**ATIVIDADES REALIZADAS**
+Coleta de dados 
+Tabela
+Graficos
+Excel 
+POWER BI 
+
 
 
 
