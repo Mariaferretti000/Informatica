@@ -61,6 +61,13 @@ Desenvolver habilidades técnicas.
 - arquivo que contenha INDICADOR e link  para uma figura representativa desse indicador.
 - modelo dos arquivos no PowerBI, relacionando-os pelo indicador.
 - visualizações via Power BI, incluindo as imagens. (tabela e grafico de pizza)
+
+**fórmulas DAX e KPI**
+*Total de itens vendidos* ![image](https://github.com/user-attachments/assets/879fa700-033a-4fa8-b490-becf112c42ca)
+- KPI
+- Segmentação de dados
+
+
   
 
 
