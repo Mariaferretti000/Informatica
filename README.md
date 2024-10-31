@@ -55,7 +55,8 @@ Desenvolver habilidades técnicas.
 -POWER BI 
 
 
-*POWER BI*
+**POWER BI**
+
 *Taxa de rentenção* ![image](https://github.com/user-attachments/assets/e2238b02-9a39-46ce-b76b-4e1160254702)
 - arquivo que contenha INDICADOR e link  para uma figura representativa desse indicador.
 - modelo dos arquivos no PowerBI, relacionando-os pelo indicador.
