@@ -48,11 +48,12 @@ Facilitar o compartilhamento e feedback;
 Desenvolver habilidades técnicas.
 
 **ATIVIDADES REALIZADAS**
--Coleta de dados 
--Tabela
--Graficos
+-Coleta de dados
+-Tabela 
+-Graficos 
 -Excel 
 -POWER BI 
+
 
 *POWER BI*
 *Taxa de rentenção* ![image](https://github.com/user-attachments/assets/e2238b02-9a39-46ce-b76b-4e1160254702)
