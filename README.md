@@ -36,13 +36,6 @@ Outras Tecnologia e Ferramentas de Interesse.
 **Projeto (API)**
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint	Previsão	Status	Histórico
-Kick Off	29/10/2024	concluido	Ver Relatório
-Sprint 01	24/10/2024	concluido	Ver Relatório
-02	dd/mm/aaaa	em progresso	Ver Relatório
-03	dd/mm/aaaa	a fazer	Ver Relatório
-04	dd/mm/aaaa	a fazer	Ver Relatório
-Feira de Soluções	dd/mm/aaaa	a fazer	Ver Relatório
 
  **OBJETIVO DO PROJETO**
 
@@ -55,11 +48,11 @@ Facilitar o compartilhamento e feedback;
 Desenvolver habilidades técnicas.
 
 **ATIVIDADES REALIZADAS**
-Coleta de dados 
-Tabela
-Graficos
-Excel 
-POWER BI 
+-Coleta de dados 
+-Tabela
+-Graficos
+-Excel 
+-POWER BI 
 
 *POWER BI*
 *Taxa de rentenção* ![image](https://github.com/user-attachments/assets/e2238b02-9a39-46ce-b76b-4e1160254702)
