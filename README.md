@@ -61,6 +61,12 @@ Graficos
 Excel 
 POWER BI 
 
+*POWER BI*
+*Taxa de rentenção* ![image](https://github.com/user-attachments/assets/e2238b02-9a39-46ce-b76b-4e1160254702)
+- grafico de pizza
+- tabela
+- Link da imagem 
+  
 
 
 
