@@ -67,6 +67,9 @@ Desenvolver habilidades técnicas.
 - KPI
 - Segmentação de dados
 
+**Power Apps**
+![Captura de tela 2024-11-21 195332](https://github.com/user-attachments/assets/785d1d3c-87a4-4c20-a67e-154e6d0621c7)
+
 
   
 
